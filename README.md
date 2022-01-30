@@ -2,4 +2,3 @@
 ---
 [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1pHUPQ3RNM4AtXOOsjLUGfgYfUemdCZqHQmARda0g4-E/edit?usp=sharing
 )
-# Ustyugov_qa
